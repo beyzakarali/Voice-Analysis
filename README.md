@@ -6,4 +6,4 @@
 - [X] Fast Fourier Transform (FFT)
 - [X] Spectrogram
 - [X] Feature extraction from Audio signal
-- [X] Genre classification using Artificial Neural Networks(ANN).
+- [X] Genre classification using Convolutional Neural Networks(CNN).
