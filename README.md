@@ -5,5 +5,5 @@
 - [X] Reading Audio Files
 - [X] Fast Fourier Transform (FFT)
 - [X] Spectrogram
-- [ ] Feature extraction from Audio signal
-- [ ] Genre classification using Artificial Neural Networks(ANN).
+- [X] Feature extraction from Audio signal
+- [X] Genre classification using Artificial Neural Networks(ANN).
